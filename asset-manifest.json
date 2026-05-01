@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Store/static/css/main.bf6a745c.css",
+    "main.js": "/Store/static/js/main.3508e328.js",
+    "static/media/iphone_15_pro.png": "/Store/static/media/iphone_15_pro.c1751662cc3d8c7eaa4b.png",
+    "static/media/2f248a73-5fdd-4a26-aae0-06c7af41a5ef-1000x729.jpg": "/Store/static/media/2f248a73-5fdd-4a26-aae0-06c7af41a5ef-1000x729.ba39b86dbf69d1138ea3.jpg",
+    "static/media/ps5-product-thumbnail-01-en-14sep21.jpg": "/Store/static/media/ps5-product-thumbnail-01-en-14sep21.cef3b2daf143e01c2ea5.jpg",
+    "static/media/1.png": "/Store/static/media/1.c7943f2b7534221e2e9a.png",
+    "static/media/s1.jpg": "/Store/static/media/s1.a1064f1bc14e2da77069.jpg",
+    "static/media/33.png": "/Store/static/media/33.e79b26bee3d3fb4b227f.png",
+    "index.html": "/Store/index.html",
+    "main.bf6a745c.css.map": "/Store/static/css/main.bf6a745c.css.map",
+    "main.3508e328.js.map": "/Store/static/js/main.3508e328.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6a745c.css",
+    "static/js/main.3508e328.js"
+  ]
+}
