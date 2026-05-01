@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Store/static/css/main.878c2bff.css",
+    "main.css": "/Store/static/css/main.74e2c7ab.css",
     "main.js": "/Store/static/js/main.d10dd6fc.js",
     "static/media/l1.png": "/Store/static/media/l1.0e9fad06c38335bc139e.png",
     "static/media/iphone_15_pro.png": "/Store/static/media/iphone_15_pro.c1751662cc3d8c7eaa4b.png",
@@ -12,11 +12,11 @@
     "static/media/s1.jpg": "/Store/static/media/s1.a1064f1bc14e2da77069.jpg",
     "static/media/33.png": "/Store/static/media/33.e79b26bee3d3fb4b227f.png",
     "index.html": "/Store/index.html",
-    "main.878c2bff.css.map": "/Store/static/css/main.878c2bff.css.map",
+    "main.74e2c7ab.css.map": "/Store/static/css/main.74e2c7ab.css.map",
     "main.d10dd6fc.js.map": "/Store/static/js/main.d10dd6fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.878c2bff.css",
+    "static/css/main.74e2c7ab.css",
     "static/js/main.d10dd6fc.js"
   ]
 }
